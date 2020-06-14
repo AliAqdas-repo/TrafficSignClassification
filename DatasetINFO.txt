@@ -1,0 +1,5 @@
+Original Non Processed datasets are used to build this classifier
+The dataset used to construct this model is available at Kaggle
+Traffic Signs Preprocessed
+https://www.kaggle.com/valentynsichkar
+
